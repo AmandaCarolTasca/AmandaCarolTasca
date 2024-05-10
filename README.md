@@ -1,5 +1,4 @@
-### Boa vindas ao meu perfil 🖤
-
+### Bem Vindos ao meu perfil 🖤
 Meu nome é Amanda Tasca
 
 -Estou estudando na Alura
